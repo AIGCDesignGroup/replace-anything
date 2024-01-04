@@ -1,2 +1,2 @@
 # Project Page 
-https://aigcdesigngroup.github.io/ReplaceAnything/
+https://aigcdesigngroup.github.io/replace-anything/
